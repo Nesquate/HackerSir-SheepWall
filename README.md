@@ -2,6 +2,8 @@
 
 黑客社綿羊牆 by @Mikucat @YUKI @Nesquate
 
+使用於 2021/12 資安週
+
 ## 硬體限制
 
 不是所有 Wi-Fi USB/PCI-E 裝置都支援 AP 模式，使用之前請確認裝置是否相容。
